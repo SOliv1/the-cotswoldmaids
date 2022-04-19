@@ -1,8 +1,8 @@
-# excursion
+# Cotswold Maids
 
 [![pages-build-deployment](https://github.com/SOliv1/excursion/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/excursion/actions/workflows/pages/pages-build-deployment)
 
--# excursion
+-## based on Code Academy @excursion project template
 
 ## shortcut code for HTML boiler plate = type ! then hit tab
 
