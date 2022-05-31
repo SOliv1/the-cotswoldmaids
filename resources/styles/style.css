@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    font-family: "Lexend Mega", sans-serif;
+    color: black;
+    background-color: white;
+    font-size: 22px;
+    text-align: center;
+}
+
+a {
+    color: black;
+}
+
+h2,
+h3,
+h4,
+p {
+    margin: 0;
+    padding: 10px;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 10%;
+}
+
+.navbar p {
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+.main {
+    padding-top: 35px;
+    opacity: 0.9;
+}
+
+.mission #bg-image {
+    display: flex;
+    height: 300px;
+    /*background-image: url('/comingsoon/images/cots-cropped.jpeg');
+    background-image: url('https://soliv1.github.io/comingsoon/images/cots-cropped.jpeg') */
+    background-image: url('./images/crop2.jpeg');
+   /*background-image: url('https://soliv1.github.io/the-cotswolds-edge/images/Adobetilecrop_Preview.jpeg');
+    background-image: url("https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/img/skyscrapers.jpg");*/
+    padding-top: 35px;
+    align-items: center;
+    position: relative;
+}
+
+/*.mission {
+  background-image: url('images/cots-cropped.jpeg');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}*/
+
+.mission .content {
+    margin: auto;
+    background-color: hsl(0deg 0% 35% / 47%);
+     /* background-color: #fff; */
+     /*color: #000; */
+    color: #fff;
+    width: 100%;
+    justify-content: center;
+}
+
+#portfolio {
+    min-height: 500px;
+    margin: auto;
+    padding-top: 70px;
+}
+
+.companies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.company {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.company img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    padding: 10px;
+    height: auto;
+}
+
+.company span {
+    padding: 5px;
+    min-width: 240px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.team {
+    background-image: url('https://soliv1.github.io/the-cotswolds-edge/images/AdobeStock_352482943_Preview.jpeg');
+    padding-top: 70px;
+    padding-top: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.teammate {
+    padding: 10px;
+    color: white;
+    flex-basis: 280px;
+    background-color: hsla(0, 0%, 35%, 0.84);
+}
+
+.teammate img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: auto;
+}
+
+.contact,
+.copyright {
+    padding-top: 20px;
+}
