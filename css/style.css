@@ -41,29 +41,30 @@ p {
     opacity: 0.9;
 }
 
-.mission #bg-image {
+/* .mission #bg-image {
     display: flex;
     height: 300px;
     /*background-image: url('/comingsoon/images/cots-cropped.jpeg');
-    background-image: url('https://soliv1.github.io/comingsoon/images/cots-cropped.jpeg') */
+    background-image: url('https://soliv1.github.io/comingsoon/images/cots-cropped.jpeg') 
     background-image: url('./images/crop2.jpeg');
     /*background-image: url('https://soliv1.github.io/the-cotswolds-edge/images/Adobetilecrop_Preview.jpeg');
-    background-image: url("https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/img/skyscrapers.jpg");*/
+    background-image: url("https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/img/skyscrapers.jpg");
     padding-top: 35px;
     align-items: center;
     position: relative;
 }
 
-/*.mission {
+.mission {
   background-image: url('images/cots-cropped.jpeg');
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
-}*/
+} */
 
 .mission .content {
     margin: auto;
+    background-image: url('/images/cots-cropped.jpeg');
     background-color: hsl(0deg 0% 35% / 47%);
     /* background-color: #fff; */
     /*color: #000; */
