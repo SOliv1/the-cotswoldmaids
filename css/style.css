@@ -25,6 +25,10 @@ p {
     align-items: center;
 }
 
+.heading {
+    color: #000;
+}
+
 .navbar {
     display: flex;
     justify-content: space-around;
