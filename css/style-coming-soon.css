@@ -1,0 +1,50 @@
+body {
+    background-color: #000000;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div {
+    display: inline-flex;
+}
+
+/* HEADINGS */
+
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.header--secondary {
+    font-weight: 300px;
+    font-size: 42px;
+    color: #ffffff;
+}
+
+.header--sub-header {
+    font-size: 21px;
+    color: grey
+}
+
+
+/* LINKS */
+
+.link--cta {
+    font-size: 16px;
+    color: #7fffd4;
+}
+
+/* Email */
+
+h5#email-header {
+    color: white;
+}
+
+/*  FOOTER */
+
+.footer--copyright {
+    font-size: 21px;
+    color: #7fffd4;
+    text-align: right;
+}
