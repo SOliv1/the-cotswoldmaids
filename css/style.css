@@ -164,7 +164,8 @@ p {
 
 .team {
     /* background-image: url('https://soliv1.github.io/the-cotswolds-edge/images/AdobeStock_352482943_Preview.jpeg');*/
-    background-image: url("../images/AdobeStock_352482943_Preview.jpeg");
+    /*background-image: url("../images/AdobeStock_352482943_Preview.jpeg");*/
+    background-image: url("../images/images/AdobeStock_352482943.jpeg")
     padding-top: 70px;
     padding-top: 5px;
     display: flex;
