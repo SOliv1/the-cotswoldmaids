@@ -110,10 +110,6 @@ p {
     color: #000;
 }
 
-.navbar {
-    display: flex;
-    justify-content: space-around;
-}
 
 .navbar p {
     display: inline-block;
@@ -195,18 +191,12 @@ p {
     padding-top: 20px;
 }
 
-.social-networks {
-    text-align: center;
-
-}
-
-.social-networks li {
-    display: inline;
-}
-
 .social-networks i {
     font-size: 160%;
-    margin: 1%;
-    padding: 5%;
+    padding: 5px;
     color: #3a3a3a;
+}
+.social-networks a {
+   text-decoration: none;
+
 }
