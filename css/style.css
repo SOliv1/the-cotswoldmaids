@@ -88,9 +88,14 @@ h2{
     }
   }
 
-a {
+  a.link--cta {
     color: black;
-}
+} 
+
+a {
+    text-decoration:none;
+     color: white;
+ }
 
 h2,
 h3,
