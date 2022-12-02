@@ -81,6 +81,7 @@ h2{
 .col-12 {
     width: 100%;
 }
+
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     [class*="col-"] {
@@ -91,6 +92,12 @@ h2{
   a.link--cta {
     color: black;
 } 
+
+/* Meet img */
+
+img.meet {
+    width: 3em;
+}
 
 a {
     text-decoration:none;
@@ -210,5 +217,4 @@ p {
 }
 .social-networks a {
    text-decoration: none;
-
 }
