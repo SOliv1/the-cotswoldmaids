@@ -1,9 +1,10 @@
 const IMAGE_URLS = [
+    'images/fairy1.jpeg',
     'images/fairy1.png',
     'images/fairy2.png',
-    'images/xmastree.png',
+   /*'images/xmastree.png',
     'images/xmas-wreath.png',
-    /*'images/flower3.png',
+    'images/flower3.png',
     'images/butterfly2.png',*/
   ]
   
