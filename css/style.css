@@ -138,9 +138,21 @@ p {
     opacity: 0.9;
 }
 
-.mission {
-    background-image: url("../images/mission-min.jpeg");
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
     background-size: cover;
+    /*background-color: rgba(0, 0, 0, 0.3);*/
+    background-color: rgba(76, 175, 80, 0.3);
+}
+
+
+.mission {
+    /*background-image: url("../images/mission-min.jpeg");*/
+    background-image: url('../images/mission-2.jpeg');
+    background-size: cover;
+    opacity: 1;
     padding: 30px;
     color: white;
 }
