@@ -209,8 +209,9 @@ p {
 }
 
 #hiring-now {
-    background: #ffd374;
-    color: #000;
+    /* background: #ffd374; */
+     background-color: hsla(0, 0%, 35%, 0.50);
+    color: #ffffff;
 }
 
 
