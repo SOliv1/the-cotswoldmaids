@@ -93,6 +93,10 @@ h2{
     color: #ffffff;
 } 
 
+  a.link--cta-2 {
+    color: #000000;
+}
+
 /* Meet img */
 
 img.meet {
