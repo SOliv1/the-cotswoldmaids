@@ -138,6 +138,14 @@ a {
      color: black;
  }
 
+a#white-1 {
+    color:white;
+}
+
+a#white {
+    color: white;
+}
+
  a.facebook-1 {
     color: #ffffff;
 }
