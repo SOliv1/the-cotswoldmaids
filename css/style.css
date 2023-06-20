@@ -152,7 +152,6 @@ h2{
   } 
 
 
-
 /* Meet img */
 
 img.meet {
@@ -194,11 +193,19 @@ p {
     color: #000;
 }
 
-
 .navbar p {
     display: inline-block;
     padding: 10px 10px;
     font-size: 1.1rem;
+}
+
+.cots-logo {
+    padding-bottom: 15px;
+}
+
+.navbar.row {
+    padding-block: inherit;
+    padding: 30px 15px;
 }
 
 .main {
