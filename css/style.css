@@ -137,6 +137,7 @@ h2{
   
   .button:hover {
     opacity: 0.75;
+    color:#FFAA00
   }
   
   .button-secondary {
@@ -302,12 +303,10 @@ p {
     padding-top: 20px;
 }
 
-
-
 .social-networks i {
     font-size: 160%;
     padding: 5px;
-    color: #3a3a3a;
+    color: #ffffff;
 }
 .social-networks a {
    text-decoration: none;
