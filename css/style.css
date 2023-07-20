@@ -184,8 +184,10 @@ p {
     padding: 10px;
 }
 
-h4#white {color: #ffffff;
+h4#white {
+    color: #ffffff;
 }
+
 
 .header {
     display: flex;
