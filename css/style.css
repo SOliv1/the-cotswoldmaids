@@ -230,7 +230,7 @@ h4#white {
 
 
 .mission {
-    background-image: url(../images/AdobeStock_305463147.jpeg);
+    background-image: url("../images/AdobeStock_305463147.jpeg");
     /*background-image: url("../images/mission-min.jpeg");*?
     /*background-image: url('../images/mission-2.jpeg');*/
     background-size: cover;
