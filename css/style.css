@@ -231,9 +231,9 @@ h4#white {
 
 .mission {
     /*background-image: url("../images/AdobeStock_59969946.jpeg");
-    background-image: url("../images/AdobeStock_305463147.jpeg");
-    background-image: url("../images/mission-min.jpeg");*/
-    background-image: url('../images/mission-2.jpeg');
+    background-image: url("../images/AdobeStock_305463147.jpeg");*/
+    background-image: url('../images/mission-min.jpeg');
+    /*background-image: url('../images/mission-2.jpeg');*/
     background-size: cover;
     opacity: 1;
     padding: 30px;
